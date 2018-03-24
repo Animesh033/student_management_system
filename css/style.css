@@ -1,0 +1,42 @@
+body{
+	background: #ff00ff;
+}
+ul{
+	list-style: none;
+}
+li a{
+	/*text-decoration: none;*/
+}
+.admintitle{
+	background: #ff3300;
+	color: #fff;
+	margin:0 50px;
+	height: 140px;
+	line-height: 140px;
+}
+#backto_dash{
+	position: absolute;
+	left: 100px;
+	top: -10px;
+	color: #fff;
+}
+#logout{
+	float: right;
+	color: #fff;
+	margin-top: -200px;
+	margin-right:30px;
+
+}
+.dashboard{
+	background: #ff0066;
+	color: #fff;
+	margin:0 50px;
+	width: 25%;
+	height: 150px;
+	line-height: 40px;
+
+}
+.dashboard li a{
+	color: #fff;
+	text-align: center;
+}
